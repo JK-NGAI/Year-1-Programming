@@ -1,2 +1,2 @@
-# Year-1-Programming
+# Programming fundamentals
 My BSc Computer Science programming exercises
