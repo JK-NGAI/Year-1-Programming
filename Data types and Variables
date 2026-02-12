@@ -1,0 +1,34 @@
+name = 'Malik'
+age = 25
+print(name, "is", age, "years old")
+##
+
+first_name = 'Malik'
+second_name = 'Manek'
+print(first_name, second_name)
+##
+
+first_name = 'Malik'
+print(len(first_name))
+##
+
+third_name = 'Malikimani'
+print(len(third_name))
+##
+
+third_name = "Malikimani"
+if "n" in third_name:
+    print("The letter n is in Malik's third name.")
+else:
+    print("The letter n is not in Malik's third name.")
+##
+
+third_name = "Malikimani"
+print("n" in third_name)
+##
+#print("The following is")
+##
+string1 = "Malaba"
+string2 = " "
+string3 = "Kenya"
+print(string1 + string2 + string3)

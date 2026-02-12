@@ -1,0 +1,56 @@
+#Python Operators
+a = 76
+b = 89
+print(a // b)
+##
+a = 67
+b = 80
+print(a < b and a == b)
+##
+# Number of packets and cost per packet
+num_packets = 20
+cost_per_packet = 50
+# Calculate total cost
+total_cost = num_packets * cost_per_packet
+# Display the result
+print(total_cost)
+##
+# Number of students and number of computers
+total_students = 150
+computers_per_lab = 50
+num_groups =(int(total_students / computers_per_lab))
+print(num_groups)
+##
+
+last_year_price = 110
+this_year_price = 2 * last_year_price
+print(this_year_price)
+##
+
+# Malik's age
+age = 18
+age_cubed = age ** 3
+print(age_cubed)
+##
+# Total computers and number of learners
+total_computers = 200
+learners = 150
+remaining_computers = total_computers - learners
+print(remaining_computers)
+##
+
+a = 89
+b = 78
+print(a != b)
+##
+a = 30 ** 2
+b = 40
+print(a//b)
+##
+a = 89
+b = 90
+print(a<b and a<=b)
+##
+a = 100
+b = 20
+print(a/b)
